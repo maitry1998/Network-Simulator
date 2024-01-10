@@ -1,5 +1,3 @@
-# Maitry K Chauhan - mc22ck
-# Harsha Tadepalli - kt22h
 import socket
 import json
 import struct
